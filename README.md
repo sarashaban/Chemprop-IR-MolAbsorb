@@ -1,6 +1,6 @@
 # Chemprop-IR-MolAbsorb
 
-### This repository contains the source code for Chemprop-IR, featuring the communicative message passing neural network (CMPNN) architecture and DMPNN, along with supplementary files for our paper titled 
+### This repository contains the source code for Chemprop-IR, featuring the communicative message passing neural network (CMPNN) and DMPNN architectures, along with supplementary files for our paper titled 
 
 ### 'Prediction of the Infrared Absorbance Intensities and Frequencies of Hydrocarbons: A Message Passing Neural Network Approach'. 
 
