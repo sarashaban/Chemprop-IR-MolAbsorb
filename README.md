@@ -1,4 +1,4 @@
-# Chemprop-IR-Molabsorb
+# Chemprop-IR-MolAbsorb
 
 This repository contains the source code and supplementary materials developed for our paper:
 
